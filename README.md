@@ -23,4 +23,4 @@
 ### News Page
 ![image](https://user-images.githubusercontent.com/74358627/190084963-c6add249-4e38-42f5-8277-56a8a012f55f.png)
 ## 🚀 About Me
-I'm **[Dhruba Datta](https://dhruba-datta.netlify.app)**, currently an undergraduate student at Delhi Technological University(DTU).Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development.
+I'm **[Anish Majumdar](https://anishmajumdar.pages.dev/)**, currently an undergraduate student at Indian Instittute of Technology Kharagpur (IIT).Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development.
